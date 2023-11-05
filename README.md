@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Badar Abbas
-- 🕸️ WEB DEV TOOLS
-  HTML
+- 🕸️ WEB DEV TOOLS  ![image](https://github.com/RaiBadarAbbas92/RaiBadarAbbas92/assets/142784854/dc0a15d4-9484-4cc0-a278-3e87d7ceb525)
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
