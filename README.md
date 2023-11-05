@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Badar Abbas
 - 🕸️ WEB DEV TOOLS
-  HTML CSS3 JavaScript Typescript React Next JS Bootstrap Material UI TailwindCSS
+  HTML
 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
