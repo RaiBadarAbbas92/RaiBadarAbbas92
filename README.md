@@ -5,14 +5,15 @@
 
 
 - 🌱 I’m currently learning 
-Next.js 13.5+
+Next.js 13.5+ , Python , Sql
 
-Tailwind CSS
 
-SQL
+
+
 
 🎯 PROGRAMMING LANGUAGES
-![image](https://github.com/RaiBadarAbbas92/RaiBadarAbbas92/assets/142784854/38b46eb8-5d33-4977-ad91-03cb9f7361af)  ![image](https://github.com/RaiBadarAbbas92/RaiBadarAbbas92/assets/142784854/7db889f8-e2bd-406c-a98a-62b884bc4b62)
+![image](https://github.com/RaiBadarAbbas92/RaiBadarAbbas92/assets/142784854/38b46eb8-5d33-4977-ad91-03cb9f7361af) ![image](https://github.com/RaiBadarAbbas92/RaiBadarAbbas92/assets/142784854/ca28ac80-ee7c-4c45-a671-0e5f2e125ecb)
+
 
 🛠️ DEVOPS TOOLS
 ![image](https://github.com/RaiBadarAbbas92/RaiBadarAbbas92/assets/142784854/81311480-6d60-4734-aa31-a638438523bd) ![image](https://github.com/RaiBadarAbbas92/RaiBadarAbbas92/assets/142784854/8a300c51-38be-49fb-9456-5f7331133f61) ![image](https://github.com/RaiBadarAbbas92/RaiBadarAbbas92/assets/142784854/058efd50-cf38-447e-a6fa-0513d27dae68)
