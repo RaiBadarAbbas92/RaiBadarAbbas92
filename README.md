@@ -5,7 +5,7 @@
 
 
 - 🌱 I’m currently learning 
-Next.js 13.5+ , Python , Sql
+Fastapi, Python , Sql
 
 
 
